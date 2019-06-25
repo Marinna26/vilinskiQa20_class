@@ -12,7 +12,8 @@ public class OpenGoogleTest {
     @BeforeMethod
     public void setUp(){
         driver = new ChromeDriver();
-        driver.get("https://www.google.com/");
+      //  driver.get("https://www.google.com/");
+        driver.get("https://trello.com");
     }
     @Test
     public void testGoogle(){

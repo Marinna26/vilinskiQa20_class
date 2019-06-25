@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84b6838b-cd08-4f48-8947-6c1baa1381a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/build/classes/java/test/com/telran/qa20/OpenGoogleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trello-web/src/test/java/TrelloLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-web-tests/build/classes/java/test/com/telran/qa20/OpenGoogleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -37,6 +15,12 @@
     <ignored path="$PROJECT_DIR$/selenium-web-tests/build/" />
     <ignored path="$PROJECT_DIR$/web2/.gradle/" />
     <ignored path="$PROJECT_DIR$/web2/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/selenium-web-tests/out/" />
+    <ignored path="$PROJECT_DIR$/web2/out/" />
+    <ignored path="$PROJECT_DIR$/trello-web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/trello-web/build/" />
+    <ignored path="$PROJECT_DIR$/trello-web/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +28,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/selenium-web-tests">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/trello-web">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/web2">
@@ -74,7 +60,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,23 +73,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium-web-tests/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
+            <state relative-caret-position="272">
               <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trello-web/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trello-web/src/test/java/TrelloLoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web2/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="255">
               <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
             </state>
           </provider>
@@ -137,15 +142,8 @@
         <option value="$PROJECT_DIR$/selenium-web-tests/build.gradle" />
         <option value="$PROJECT_DIR$/web2/build.gradle" />
         <option value="$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/gradle.xml" />
+        <option value="$PROJECT_DIR$/trello-web/build.gradle" />
+        <option value="$PROJECT_DIR$/trello-web/src/test/java/TrelloLoginTest.java" />
       </list>
     </option>
   </component>
@@ -160,6 +158,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,18 +170,18 @@
             <path>
               <item name="repeat-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="vilinskiQa20_class" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="selenium-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="trello-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="repeat-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="vilinskiQa20_class" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="selenium-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="trello-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="repeat-tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="vilinskiQa20_class" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="selenium-web-tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="trello-web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
@@ -189,8 +189,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.OpenGoogleTest">
+  <component name="RunManager" selected="TestNG.TrelloLoginTest.loginTest">
     <configuration name="OpenGoogleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -233,30 +231,71 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="OpenGoogleTest.testGoogle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/selenium-web-tests" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.telran.qa20.OpenGoogleTest.testGoogle&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="OpenGoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-web-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.qa20" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa20.OpenGoogleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenGoogleTest.testGoogle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-web-tests_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.telran.qa20" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa20.OpenGoogleTest" />
+      <option name="METHOD_NAME" value="testGoogle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrelloLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trello-web_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrelloLoginTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trello-web_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrelloLoginTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TrelloLoginTest.loginTest" />
+        <item itemvalue="TestNG.TrelloLoginTest" />
+        <item itemvalue="TestNG.OpenGoogleTest.testGoogle" />
+        <item itemvalue="TestNG.OpenGoogleTest" />
         <item itemvalue="Gradle.OpenGoogleTest" />
-        <item itemvalue="Gradle.OpenGoogleTest.testGoogle" />
       </list>
     </recent_temporary>
   </component>
@@ -274,55 +313,69 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 35m 17s.xml">
-      <configuration name="OpenGoogleTest.testGoogle" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 43m 00s.xml">
-      <configuration name="OpenGoogleTest.testGoogle" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.21 at 11h 43m 36s.xml">
-      <configuration name="OpenGoogleTest.testGoogle" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="OpenGoogleTest - 2019.06.21 at 11h 43m 54s.xml">
-      <configuration name="OpenGoogleTest" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="OpenGoogleTest - 2019.06.21 at 11h 46m 16s.xml">
       <configuration name="OpenGoogleTest" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="OpenGoogleTest - 2019.06.21 at 11h 46m 48s.xml">
       <configuration name="OpenGoogleTest" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.25 at 18h 08m 38s.xml">
+      <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.25 at 18h 19m 18s.xml">
+      <configuration name="OpenGoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.25 at 18h 31m 13s.xml">
+      <configuration name="OpenGoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest - 2019.06.25 at 18h 33m 15s.xml">
+      <configuration name="OpenGoogleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.25 at 18h 42m 23s.xml">
+      <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="OpenGoogleTest_testGoogle - 2019.06.25 at 18h 50m 52s.xml">
+      <configuration name="OpenGoogleTest.testGoogle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloLoginTest - 2019.06.25 at 20h 49m 51s.xml">
+      <configuration name="TrelloLoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrelloLoginTest_loginTest - 2019.06.25 at 20h 51m 35s.xml">
+      <configuration name="TrelloLoginTest.loginTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1340" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2578125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32972974" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info active="true" anchor="right" id="Gradle" visible="true" weight="0.3296875" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.3296875" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -333,30 +386,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web2/build.gradle">
+    <entry file="file://$PROJECT_DIR$/selenium-web-tests/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="272">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-web-tests/build.gradle">
+    <entry file="file://$PROJECT_DIR$/web2/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        <state relative-caret-position="255">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium-web-tests/src/test/java/com/telran/qa20/OpenGoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trello-web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trello-web/src/test/java/TrelloLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -411,7 +479,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>web2|repeat-tests</last-edited>
+          <last-edited>trello-web|repeat-tests</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
