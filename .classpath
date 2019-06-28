@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="selenium-web-tests/src/test/java"/>
+	<classpathentry kind="src" path="trello-web/src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="selenium-web-tests/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="trello-web/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="web2/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="selenium-web-tests/out/test/classes"/>
+</classpath>

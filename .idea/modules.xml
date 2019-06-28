@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1-2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1-2_main.iml" group="2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1-2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1-2_test.iml" group="2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2.iml" filepath="$PROJECT_DIR$/.idea/modules/2.iml" group="2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2_main.iml" group="2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2_test.iml" group="2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Home.iml" filepath="$PROJECT_DIR$/.idea/modules/Home.iml" group="Home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Home_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Home_main.iml" group="Home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Home_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Home_test.iml" group="Home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-web-tests.iml" group="selenium-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-web-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-web-tests_main.iml" group="selenium-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-web-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-web-tests_test.iml" group="selenium-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran-Home_main.iml" filepath="$PROJECT_DIR$/.idea/modules/telran-Home_main.iml" group="Home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran-Home_test.iml" filepath="$PROJECT_DIR$/.idea/modules/telran-Home_test.iml" group="Home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran-trello_main.iml" filepath="$PROJECT_DIR$/.idea/modules/telran-trello_main.iml" group="trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/telran-trello_test.iml" filepath="$PROJECT_DIR$/.idea/modules/telran-trello_test.iml" group="trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello.iml" filepath="$PROJECT_DIR$/.idea/modules/trello.iml" group="trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web.iml" group="trello-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web_main.iml" group="trello-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-web_test.iml" group="trello-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello_main.iml" group="trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello_test.iml" group="trello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vilinskiQa20_class-Home_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vilinskiQa20_class-Home_main.iml" group="Home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vilinskiQa20_class-Home_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vilinskiQa20_class-Home_test.iml" group="Home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2.iml" filepath="$PROJECT_DIR$/.idea/modules/web2.iml" group="web2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web2_main.iml" group="web2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web2_test.iml" group="web2" />
+    </modules>
+  </component>
+</project>

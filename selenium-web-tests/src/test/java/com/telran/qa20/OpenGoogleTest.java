@@ -17,7 +17,7 @@ public class OpenGoogleTest {
     }
     @Test
     public void testGoogle(){
-        System.out.println("google opened");
+        System.out.println("trello opened");
     }
     @AfterMethod
     public void tearDown(){
