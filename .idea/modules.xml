@@ -28,6 +28,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2.iml" filepath="$PROJECT_DIR$/.idea/modules/web2.iml" group="web2" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web2_main.iml" group="web2" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web2_test.iml" group="web2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests.iml" group="wikipedia-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests_main.iml" group="wikipedia-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web-tests_test.iml" group="wikipedia-web-tests" />
     </modules>
   </component>
 </project>
