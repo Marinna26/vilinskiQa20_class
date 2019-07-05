@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="1-2_main" target="1.8" />
+      <module name="1-2_test" target="1.8" />
+      <module name="2_main" target="1.8" />
+      <module name="2_test" target="1.8" />
+      <module name="Home_main" target="1.8" />
+      <module name="Home_test" target="1.8" />
+      <module name="homeproj_main" target="1.8" />
+      <module name="homeproj_test" target="1.8" />
+<<<<<<< HEAD
+      <module name="qa20-trello-web_main" target="1.8" />
+      <module name="qa20-trello-web_test" target="1.8" />
+      <module name="qa20-wikipedia-web-tests_main" target="1.8" />
+      <module name="qa20-wikipedia-web-tests_test" target="1.8" />
+=======
+>>>>>>> a8a4cbf78996f79f0725f89f04192f0bb8a2b58c
+      <module name="selenium-web-tests_main" target="1.8" />
+      <module name="selenium-web-tests_test" target="1.8" />
+      <module name="telran-Home_main" target="1.8" />
+      <module name="telran-Home_test" target="1.8" />
+      <module name="telran-trello_main" target="1.8" />
+      <module name="telran-trello_test" target="1.8" />
+      <module name="trello-web_main" target="1.8" />
+      <module name="trello-web_test" target="1.8" />
+      <module name="trello_main" target="1.8" />
+      <module name="trello_test" target="1.8" />
+      <module name="vilinskiQa20_class-Home_main" target="1.8" />
+      <module name="vilinskiQa20_class-Home_test" target="1.8" />
+      <module name="web2_main" target="1.8" />
+      <module name="web2_test" target="1.8" />
+      <module name="wikipedia-web-tests_main" target="1.8" />
+      <module name="wikipedia-web-tests_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
